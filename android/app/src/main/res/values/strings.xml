@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ELDER.LY</string>
+    <string name="facebook_app_id">635853505382082</string>
+    <string name="fb_login_protocol_scheme">fb635853505382082</string>
+    <string name="facebook_client_token">e64ad91727ecc89ebffff7331a050d6f</string>
+</resources>
